@@ -1,6 +1,6 @@
 
 ```sh
-git clone https://github.com/shuttlenetwork/shuttle-lite.git
+git clone https://github.com/KnightOChaos/knight.git
 cd shuttle
 npm install
 npm start
